@@ -1,1 +1,1 @@
-# project-3-dias-game
+# project-3-dice-game
